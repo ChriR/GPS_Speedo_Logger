@@ -7,3 +7,8 @@ The code is designed to run on CodeComposerStudio 6.1.
 The developed device may be employed to provide live view of data during outdoor pursuits while simultaneously logging these data for subsequent evaluation. These data include height, speed, position and distance covered. In addition, a stopwatch may be used to measure arbitrary time spans.
 
 Contact author: cma002@aim.com
+
+# History
+
+2016-05-30
+  initial release
